@@ -1,6 +1,6 @@
 {
     "uuid": "cinnamon-reddit",
     "name": "Reddit Feed",
-    "description": "Notifies of latest Reddit posts",
+    "description": "Shows latest Reddit posts",
     "max-instances": "-1"
 }
